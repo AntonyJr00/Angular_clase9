@@ -1,0 +1,32 @@
+.buttonclick {
+  padding: 10px 20px;
+  background-color: brown;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin: 10px 0;
+}
+
+.red {
+  background-color: #f225;
+}
+
+.green {
+  background-color: #2f25;
+}
+
+.redtext {
+  color: red;
+  place-content: center;
+}
+
+label,
+input,
+p,
+select {
+  font-size: 30px;
+}
+
+.selector {
+  width: 150px;
+}
